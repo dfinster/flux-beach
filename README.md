@@ -1,6 +1,8 @@
 # Flux Beach
 
-A [theme for Vivaldi browser](https://themes.vivaldi.net/themes/ZQDJnjVbJLB), based on [the image I conceived](https://fortc.com/blog/flux-beach/).
+A theme for Vivaldi browser, based on [the image I conceived](https://fortc.com/blog/flux-beach/). 
+
+Download and import [Flux Beach.zip](./Flux&20Beach.zip) or find it at [https://themes.vivaldi.net](https://themes.vivaldi.net}.
 
 ![Flux Beach](./flux-beach.png)
 
