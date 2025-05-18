@@ -2,7 +2,7 @@
 
 A theme for Vivaldi browser, based on [the image I conceived](https://fortc.com/blog/flux-beach/). 
 
-Download and import [Flux Beach.zip](./Flux&20Beach.zip) or find it at [https://themes.vivaldi.net](https://themes.vivaldi.net}.
+Download and import [Flux Beach.zip](./Flux&20Beach.zip) or find it at [themes.vivaldi.net](https://themes.vivaldi.net).
 
 ![Flux Beach](./flux-beach.png)
 
